@@ -315,25 +315,6 @@ challenges without sacrificing accuracy (88.93% vs 87.34% teacher).
 
 ---
 
-### Real-World Deployment Scenario (Financial Fraud Detection)
-
-**System requirements**: 
-- Process 10M transactions/day
-- <100ms latency requirement  
-- 99.9% uptime
-
-**Infrastructure comparison**:
-
-| Method | Instances Needed | Daily Cost (AWS) | Meets Latency? |
-|--------|------------------|------------------|----------------|
-| Teacher | 8 (p3.2xlarge) | $156.80 | Yes (145ms) |
-| SCRD4AD | 16 (p3.2xlarge) | $313.60 | No (264ms) |
-| **ReCoDistill** | **3 (p3.2xlarge)** | **$58.80** | **Yes (63ms)** |
-
-**Annual savings**: ($156.80 - $58.80) × 365 = **$35,770** for this system alone.
-
----
-
 ### Energy Consumption (Edge Device Profiling)
 
 Measured on NVIDIA Jetson AGX Xavier (edge deployment):
