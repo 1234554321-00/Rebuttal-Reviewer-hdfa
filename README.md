@@ -1,8 +1,6 @@
 # Rebuttal-Reviewer-hdfa
 8323_Bidirectional Reverse Contrastive Distillation for Progressive Multi-Level Graph Anomaly Detection
 
-We are deeply grateful for the positive assessment and constructive feedback. We address each concern with concrete evidence.
-
 ---
 
 ### Addressing More Complex Perturbations (Future Work)
