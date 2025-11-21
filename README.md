@@ -328,7 +328,7 @@ Measured on NVIDIA Jetson AGX Xavier (edge deployment):
 
 ---
 
-**We respectfully request reconsideration to Accept (8). Thank you for the thorough and constructive review.** 
+**We respectfully request reconsideration toward an Accept (8) in light of our clarifications and additional evidence. We sincerely appreciate the reviewer’s thoughtful and constructive feedback.** 
 
 
 
